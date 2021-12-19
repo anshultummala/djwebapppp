@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.headding{
+    margin: 0px;width: 100%;font-size: 30px;font-family: Cochin;
+}
+.note
+{
+    font-size: 15px;color: black;
+}
+#speedimg, #volumeimg{
+width: 200px;border-radius: 100px;
+}
+.speed{
+    float: left;
+}
+.volume{
+    float: right;
+}
+canvas{
+    border: 5px solid white; 
+}
+#speedt, #volumet{
+    font-size: 20px; color: yellow;
+}
